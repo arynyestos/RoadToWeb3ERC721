@@ -1,6 +1,6 @@
 # How to Develop an NFT Smart Contract (ERC721)
 
-This is a simple project but very powerful for beginners. [Here](https://docs.alchemy.com/docs/how-to-develop-an-nft-smart-contract-erc721-with-alchemy) you can find the full walkthrough. We developed and deployed our own NFT contract modifying the code retrieved from OpenZeppelin's wizard. [Here](https://sepolia.etherscan.io/address/0x7bcaba578b18940fc46dfb230587b930ab5482cf) you can see the contract, which we used to [mint](https://sepolia.etherscan.io/tx/0x0b3690934b3398dea8d9a29e760864ca643d87c9a60219b6b899db099c12404b) an NFT with the following metadata:
+This is a simple project but very powerful for beginners. [Here](https://docs.alchemy.com/docs/how-to-develop-an-nft-smart-contract-erc721-with-alchemy) you can find the full walkthrough. We developed and deployed our own NFT contract modifying the code retrieved from OpenZeppelin's wizard. [Here](https://sepolia.etherscan.io/address/0x7bcaba578b18940fc46dfb230587b930ab5482cf) you can see the contract, which we used to [mint](https://sepolia.etherscan.io/tx/0x0b3690934b3398dea8d9a29e760864ca643d87c9a60219b6b899db099c12404b) an NFT with the following [metadata](https://ipfs.filebase.io/ipfs/QmPjspL9dMP2y8m38RRoRkUaTnRByRcsjLaiwg3dKAcNM9):
 ```JSON
 {
   "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
